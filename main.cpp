@@ -15,4 +15,5 @@ int main(int argc, const char * argv[]) {
     cin>>a;
     cout<<a;
     return 0;
+    //hahha,xiugail
 }
