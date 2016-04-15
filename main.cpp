@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
     cout<<a;
     return 0;
     //hahha,xiugail
+    //chongtuma
 }
 
 //
